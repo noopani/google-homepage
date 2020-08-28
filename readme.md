@@ -1,4 +1,2 @@
-I have learned:
-	How to use git for version control
-	Basic HTML and CSS
+I have learned: How to use git for version control, Basic HTML and CSS
 	
